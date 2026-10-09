@@ -6,6 +6,16 @@
 
 ## Projects
 
+### LCvT
+
+**디지털 트윈의 LoD를 고려한 계층적 이미지 분류 연구**
+
+`Electronics, 2025` · `공동 제1저자`
+
+공유 CvT 백본과 LoD별 분기를 결합해, 객체의 넓은 범주와 세부 정보를 분류합니다. 논문과 함께 핵심 실험 코드를 정리했습니다.
+
+[논문](https://doi.org/10.3390/electronics14193942) · [코드와 실험 구조](https://github.com/minseoyang/lcvt)
+
 ### MINDI
 
 **음성·텍스트 분석과 회상 대화를 결합한 인지 케어 플랫폼**
@@ -21,5 +31,7 @@
 | --- | --- |
 | Language | Python |
 | AI / NLP | PyTorch, Hugging Face Transformers, BERT, KoBERT, Whisper |
+| AI / Vision | PyTorch, CvT, ViT, hierarchical classification |
 | LLM | OpenAI API, GPT 기반 대화 생성·평가 |
 | Data | pandas, NumPy, scikit-learn |
+
