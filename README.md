@@ -1,53 +1,29 @@
 # MINSEO YANG
 
+**AI Model Development & Research**
 
-**AI Research & Development**
+AI 모델을 개발하고, 실험과 검증을 통해 연구 아이디어를 구현합니다.
 
+## 🛠 Stack
 
-인공지능 모델의 학습과 추론을 연구하고, 실험과 구현을 통해 아이디어를 검증합니다.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+## 🌱 Studying
 
-## Projects
+![Digital Twin](https://img.shields.io/badge/Digital%20Twin-0F766E?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-4F46E5?style=for-the-badge)
+![Vision & Multimodal AI Frameworks](https://img.shields.io/badge/Vision%20%26%20Multimodal%20AI%20Frameworks-64748B?style=for-the-badge)
 
+## 📂 Projects
 
-### LCvT
-
-
-**디지털 트윈의 LoD를 고려한 계층적 이미지 분류 연구**
-
-
-`Electronics, 2025` · `공동 제1저자`
-
-
-공유 CvT 백본과 LoD별 분기로 계층적 이미지 분류를 수행합니다. 각 분기의 coarse-to-fine 추론, 중요 패치 선택, 특징 재사용을 포함한 연구 프레임워크를 논문과 함께 정리했습니다.
-
-
-[논문](https://doi.org/10.3390/electronics14193942) · [코드와 프레임워크](https://github.com/minseoyang/lcvt)
-
-
-### MINDI
-
-
-**음성·텍스트 분석과 회상 대화를 결합한 인지 케어 플랫폼**
-`2025년 1학기 학부 캡스톤 프로젝트` · `AI 개발 담당`
-
-
-학부 과정에서 진행한 캡스톤 프로젝트로, 어르신의 음성 응답을 분석하고 일상/회상 대화와 결과 리포트를 제공합니다.
-
-
-[프로젝트 자세히 보기](https://github.com/minseoyang/mindi-ai)
-
-
-## Tools Used
-
-
-| 분야 | 프로젝트에서 사용한 기술 |
-| --- | --- |
-| Language | Python |
-| AI / NLP | PyTorch, Hugging Face Transformers, BERT, KoBERT, Whisper |
-| AI / Vision | PyTorch, CvT, ViT, hierarchical classification |
-| LLM | OpenAI API, GPT 기반 대화 생성·평가 |
-| Data | pandas, NumPy, scikit-learn |
-
-
-
+| 기간 | 프로젝트 | 한 줄 소개 | 링크 |
+| :--- | :--- | :--- | :--- |
+| 2025.10 · 논문 게재 | **LCvT** | 디지털 트윈의 LoD를 고려한 계층적 이미지 분류 모델 | [Code](https://github.com/minseoyang/lcvt) · [Paper](https://doi.org/10.3390/electronics14193942) |
+| 2025.03–2025.08 | **MINDI** | 대화 기반 AI 치매 진단·관리 및 인지 케어 서비스 | [AI Code](https://github.com/minseoyang/mindi-ai) |
+| 2025.01 | **WIT** | 사진 한 장으로 칼로리를 계산하는 앱 | 코드 정리 예정 |
+| 2023.09–2023.11 | **FocuStudy** | 집중 시간을 측정해 공부 의욕을 높이는 웹 | [Team Code](https://github.com/TEAM-TETRIS-Web/TETRIS-Front-end) |
