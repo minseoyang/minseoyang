@@ -23,7 +23,10 @@ AI 모델을 개발하고, 실험과 검증을 통해 연구 아이디어를 구
 
 | 기간 | 프로젝트 | 한 줄 소개 | 링크 |
 | :--- | :--- | :--- | :--- |
+| — | **Cohort Study Automation** | LLM 프레임워크 기반 코호트 연구 자동화 · 특허 | 소개 정리 예정 |
+| — | **MAD** | 창의자율과제 기반 MAD 연구·개발 | 소개 정리 예정 |
 | 2025.10 · 논문 게재 | **LCvT** | 디지털 트윈의 LoD를 고려한 계층적 이미지 분류 모델 | [Code](https://github.com/minseoyang/lcvt) · [Paper](https://doi.org/10.3390/electronics14193942) |
 | 2025.03–2025.08 | **MINDI** | 대화 기반 AI 치매 진단·관리 및 인지 케어 서비스 | [AI Code](https://github.com/minseoyang/mindi-ai) |
 | 2025.01 | **WIT** | 사진 한 장으로 칼로리를 계산하는 앱 | 코드 정리 예정 |
 | 2023.09–2023.11 | **FocuStudy** | 집중 시간을 측정해 공부 의욕을 높이는 웹 | [Team Code](https://github.com/TEAM-TETRIS-Web/TETRIS-Front-end) |
+
